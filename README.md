@@ -7,7 +7,7 @@
  - [x] L and LG KEYWORDS (loop and loop group)
  - [x] O (output)
  - [x] I (input)
- - [ ] Math Evaluation: <n>K+43/27
+ - [ ] Math Evaluation: nK+43/27
  - [ ] Concatonation: $STRING$+32+$STRING$
  - [ ] Conditional operators: >, <, >=, <=, !, =
  - [ ] Conditional operator joiners: &, |
